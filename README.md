@@ -173,5 +173,5 @@ terraform destroy \
 
 **Youness OUJDID** — Senior DevOps & Cloud Engineer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-youness--oujdid.github.io-00d4ff?style=flat-square)](https://youness-oujdid.github.io/youness-oujdid/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/user)
+[![Portfolio](https://img.shields.io/badge/Portfolio-youness--oujdid.github.io-00d4ff?style=flat-square)](https://github.com/youness-oujdid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/youness-oujdid-2250b0139/)
