@@ -1,0 +1,24 @@
+# Terraform state & sensitive files
+*.tfstate
+*.tfstate.*
+*.tfvars
+!environments/*/terraform.tfvars   # keep example tfvars
+.terraform/
+.terraform.lock.hcl
+tfplan
+crash.log
+crash.*.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Secrets
+*.pem
+*.key
+secrets/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
